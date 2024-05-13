@@ -1,0 +1,15 @@
+C:\Maria11d\DogHouse\bin\Debug\DogHouse.exe.config
+C:\Maria11d\DogHouse\bin\Debug\DogHouse.exe
+C:\Maria11d\DogHouse\bin\Debug\DogHouse.pdb
+C:\Maria11d\DogHouse\bin\Debug\EntityFramework.dll
+C:\Maria11d\DogHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Maria11d\DogHouse\bin\Debug\EntityFramework.xml
+C:\Maria11d\DogHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.csproj.AssemblyReference.cache
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.Properties.Resources.resources
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.csproj.GenerateResource.cache
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.csproj.CoreCompileInputs.cache
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.csproj.Up2Date
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.exe
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.pdb
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.Migrations.InishalMigration.resources
