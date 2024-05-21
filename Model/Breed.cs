@@ -12,6 +12,6 @@ namespace DogHouse.Model
         public string Name { get; set; }
         public string Description { get; set; }
         // relation 1:M
-        public ICollection<Dog>Dogs { get; set; }
+        public ICollection<Dog> Dogs { get; set; }
     }
 }

@@ -13,3 +13,4 @@ C:\Maria11d\DogHouse\obj\Debug\DogHouse.csproj.Up2Date
 C:\Maria11d\DogHouse\obj\Debug\DogHouse.exe
 C:\Maria11d\DogHouse\obj\Debug\DogHouse.pdb
 C:\Maria11d\DogHouse\obj\Debug\DogHouse.Migrations.InishalMigration.resources
+C:\Maria11d\DogHouse\obj\Debug\DogHouse.Form1.resources
